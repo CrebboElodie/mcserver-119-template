@@ -1,0 +1,17 @@
+{
+  "locale": "en_us",
+  "allow_posing_underwater": false,
+  "allow_posing_midair": false,
+  "centre_on_blocks": false,
+  "right_click_sit": false,
+  "strongly_remove_players": true,
+  "allow_poses": {
+    "sit": true,
+    "lay": true,
+    "spin": true
+  },
+  "enable_messages": {
+    "action_bar": true,
+    "pose_errors": true
+  }
+}

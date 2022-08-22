@@ -1,0 +1,197 @@
+[14:26:30] [main/INFO]: Loading Minecraft 1.19 with Fabric Loader 0.14.9
+[14:26:30] [main/INFO]: Loading 99 mods:
+	- adventure-platform-fabric 5.4.0-SNAPSHOT via mods-command
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-config 8.0.75
+	- cloud 1.7.0 via mods-command
+	- cloud_commandframework_cloud-brigadier_ 1.7.0 via cloud
+	- cloud_commandframework_cloud-core_ 1.7.0 via cloud
+	- cloud_commandframework_cloud-minecraft-extras 1.7.0 via mods-command
+	- cloud_commandframework_cloud-services_ 1.7.0 via cloud
+	- colorfulanvils 1.0.2+1.19.1
+	- com_electronwill_night-config_core 3.6.5 via couplings
+	- com_electronwill_night-config_toml 3.6.5 via couplings
+	- com_typesafe_config 1.4.2 via mods-command
+	- com_velocitypowered_velocity-native 3.1.2-SNAPSHOT via krypton
+	- couplings 1.9.1+1.19
+	- fabric 0.58.0+1.19
+	- fabric-api-base 0.4.9+e62f51a395 via colorfulanvils
+	- fabric-api-lookup-api-v1 1.6.7+9ff28f40a9 via fabric
+	- fabric-biome-api-v1 9.0.14+b2a4a624a9 via fabric
+	- fabric-command-api-v1 1.2.6+f71b366fa9 via fabric
+	- fabric-command-api-v2 2.1.2+0d55f585a9 via fabric
+	- fabric-commands-v0 0.2.23+df3654b3a9 via fabric
+	- fabric-containers-v0 0.1.28+df3654b3a9 via fabric
+	- fabric-content-registries-v0 3.2.1+07df213ea9 via fabric
+	- fabric-convention-tags-v1 1.0.8+37622d24a9 via fabric
+	- fabric-crash-report-info-v1 0.2.3+bd0a0d4aa9 via fabric
+	- fabric-data-generation-api-v1 5.1.2+a680b9b4a9 via fabric
+	- fabric-dimensions-v1 2.1.28+a6d2f785a9 via fabric
+	- fabric-entity-events-v1 1.4.16+9ff28f40a9 via fabric
+	- fabric-events-interaction-v0 0.4.26+9ff28f40a9 via fabric
+	- fabric-events-lifecycle-v0 0.2.26+df3654b3a9 via fabric
+	- fabric-game-rule-api-v1 1.0.19+18990361a9 via fabric
+	- fabric-item-api-v1 1.5.5+35a03c43a9 via fabric
+	- fabric-item-groups-v0 0.3.26+9ff28f40a9 via fabric
+	- fabric-language-kotlin 1.8.2+kotlin.1.7.10 via colorfulanvils
+	- fabric-lifecycle-events-v1 2.1.0+33fbc738a9 via fabric
+	- fabric-loot-api-v2 1.1.1+03a4e568a9 via fabric
+	- fabric-loot-tables-v1 1.1.4+9e7660c6a9 via fabric
+	- fabric-message-api-v1 1.0.1+513f4a59a9 via fabric
+	- fabric-mining-level-api-v1 2.1.11+33fbc738a9 via fabric
+	- fabric-networking-api-v1 1.1.0+442de8b8a9 via fabric
+	- fabric-networking-v0 0.3.15+df3654b3a9 via fabric
+	- fabric-object-builder-api-v1 4.0.8+9ff28f40a9 via fabric
+	- fabric-particles-v1 1.0.8+dc39553aa9 via fabric
+	- fabric-permissions-api-v0 0.2-SNAPSHOT via colorfulanvils
+	- fabric-registry-sync-v0 0.9.18+23c4cfefa9 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.12+9ff28f40a9 via fabric
+	- fabric-rendering-fluids-v1 3.0.5+9ff28f40a9 via fabric
+	- fabric-resource-conditions-api-v1 2.0.9+e62f51a3a9 via fabric
+	- fabric-resource-loader-v0 0.5.6+5f1a85e0a9 via fabric
+	- fabric-screen-handler-api-v1 1.2.7+9ff28f40a9 via fabric
+	- fabric-transfer-api-v1 2.0.9+e62f51a3a9 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.1+9e7660c6a9 via fabric
+	- fabricloader 0.14.9
+	- fabsit 1.5.3+1.19
+	- fallingtree 3.7.4
+	- ferritecore 4.2.1
+	- io_leangen_geantyref_geantyref 1.3.13 via mods-command
+	- java 18
+	- krypton 0.2.0
+	- lazydfu 0.1.3
+	- lithium 0.8.1
+	- minecraft 1.19
+	- mods-command 1.0.9
+	- more_codecs 0.2.2+1.18 via playerpronouns
+	- net_kyori_adventure-api 4.11.0 via adventure-platform-fabric
+	- net_kyori_adventure-key 4.11.0 via adventure-platform-fabric
+	- net_kyori_adventure-platform-api 4.1.0 via adventure-platform-fabric
+	- net_kyori_adventure-text-logger-slf4j 4.11.0 via adventure-platform-fabric
+	- net_kyori_adventure-text-minimessage 4.11.0 via adventure-platform-fabric
+	- net_kyori_adventure-text-serializer-gson 4.11.0 via adventure-platform-fabric
+	- net_kyori_adventure-text-serializer-plain 4.11.0 via adventure-platform-fabric
+	- net_kyori_examination-api 1.3.0 via adventure-platform-fabric
+	- net_kyori_examination-string 1.3.0 via adventure-platform-fabric
+	- org_jetbrains_kotlin_kotlin-reflect 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.18.2 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.3.3 via fabric-language-kotlin
+	- org_spongepowered_configurate-core 4.1.2 via mods-command
+	- org_spongepowered_configurate-hocon 4.1.2 via mods-command
+	- org_spongepowered_configurate-yaml 4.1.2 via mods-command
+	- org_yaml_snakeyaml 1.31-SNAPSHOT via mods-command
+	- packet_tweaker 0.3.0+1.18.2 via polymer
+	- phosphor 0.8.1
+	- placeholder-api 2.0.0-beta.7+1.19 via styledchat
+	- player-data-api 0.1.0+1.18 via styledplayerlist
+	- playerpronouns 1.5.0+1.19
+	- polymer 0.2.7+1.19 via vcinteraction
+	- polymer-registry-sync-manipulator 0.0.1+1.19 via polymer
+	- styledchat 1.3.3+1.19
+	- styledplayerlist 2.2.1+1.19
+	- vcinteraction 1.19-1.0.2
+	- voicechat 1.19-2.3.7
+[14:26:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/admin/mc-server-test/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[14:26:30] [main/INFO]: Compatibility level set to JAVA_17
+[14:26:30] [main/INFO]: Loaded configuration file for Lithium: 94 options available, 2 override(s) found
+[14:26:31] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14:26:31] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[14:26:36] [main/INFO]: Building unoptimized datafixer
+[14:26:39] [main/INFO]: FabSit loaded
+[14:26:39] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[14:26:39] [main/INFO]: Mods Command detected 100 loaded mods (32 top-level).
+[14:26:40] [main/INFO]: Player Pronouns initialising...
+[14:26:40] [main/INFO]: Compatibility version 15
+[14:26:40] [main/INFO]: Loading plugins
+[14:26:40] [main/INFO]: Loaded 1 plugin(s)
+[14:26:40] [main/INFO]: Initializing plugins
+[14:26:40] [main/INFO]: Initialized 1 plugin(s)
+[14:26:40] [main/INFO]: Registering events for vcinteraction
+[14:26:40] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[14:26:40] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[14:26:40] [main/WARN]: Failed to parse resource pack prompt 'test'
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15267(class_3518.java:510) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15279(class_3518.java:534) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2561$class_2562.method_10877(class_2561.java:382) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_43661(class_3806.java:134) [server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_43660(class_3806.java:166) [server-intermediary.jar:?]
+	at net.minecraft.class_3806.<init>(class_3806.java:110) [server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_16714(class_3806.java:120) [server-intermediary.jar:?]
+	at net.minecraft.class_3807.<init>(class_3807.java:12) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:104) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.19-loader.0.14.9-launcher.0.11.0.jar:0.11.0]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1403) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:592) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:424) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.8.9.jar:?]
+	... 15 more
+[14:26:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:26:43] [main/INFO]: Loaded 7 recipes
+[14:26:43] [main/INFO]: Loaded 1179 advancements
+[14:26:44] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 3.279 ms
+[14:26:44] [Server thread/INFO]: Starting minecraft server version 1.19
+[14:26:44] [Server thread/INFO]: Loading properties
+[14:26:44] [Server thread/INFO]: Default game type: SURVIVAL
+[14:26:44] [Server thread/INFO]: Generating keypair
+[14:26:45] [Server thread/INFO]: Starting Minecraft server on 192.168.1.223:25565
+[14:26:45] [Server thread/INFO]: Using epoll channel type
+[14:26:45] [Server thread/INFO]: Preparing level "world"
+[14:26:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:26:51] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[14:26:52] [Worker-Main-2/INFO]: Preparing spawn area: 70%
+[14:26:52] [Server thread/INFO]: Time elapsed: 6803 ms
+[14:26:52] [Server thread/INFO]: Done (7.439s)! For help, type "help"
+[14:26:52] [VoiceChatServerThread/INFO]: Server started at port 24454
+[14:26:57] [User Authenticator #1/INFO]: UUID of player Shrekrick_Crebbo is a6fb8711-eeb3-41dc-a6f8-819bffe85e11
+[14:26:57] [Server thread/INFO]: Shrekrick_Crebbo[/10.1.1.1:37366] logged in with entity id 173 at (-95.58470490931046, 69.0, 82.6983841690223)
+[14:26:57] [Server thread/INFO]: Using Fabric Permissions API
+[14:26:57] [Server thread/INFO]: [Admin] Shrekrick_Crebbo joined the game
+[14:26:58] [Server thread/INFO]: Received secret request of [Admin] Shrekrick_Crebbo (15)
+[14:26:58] [Server thread/INFO]: Sent secret to [Admin] Shrekrick_Crebbo
+[14:26:58] [VoiceChatPacketProcessingThread/INFO]: Successfully authenticated player a6fb8711-eeb3-41dc-a6f8-819bffe85e11
+[14:27:44] [Server thread/INFO]: [[Admin] Shrekrick_Crebbo: Gave 5 experience points to [Admin] Shrekrick_Crebbo]
+[14:27:57] [Server thread/INFO]: [[Admin] Shrekrick_Crebbo: Set own game mode to Creative Mode]
+[14:30:11] [Server thread/INFO]: [[Admin] Shrekrick_Crebbo: Set the time to 0]
+[14:31:03] [Server thread/INFO]: Shrekrick_Crebbo lost connection: Disconnected
+[14:31:03] [Server thread/INFO]: [Admin] Shrekrick_Crebbo left the game
+[14:31:03] [Server thread/INFO]: Disconnecting client [Admin] Shrekrick_Crebbo
+[14:31:07] [Server thread/INFO]: Stopping the server
+[14:31:07] [Server thread/INFO]: Stopping server
+[14:31:07] [Server thread/INFO]: Saving players
+[14:31:07] [Server thread/INFO]: Saving worlds
+[14:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
