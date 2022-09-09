@@ -1,8 +1,8 @@
 {
-  "token": "MTAxNzc3NDMzNzc4NjM5NjY5Mg.GXVsxO.42Zcl-z3YS2MJM2pYvB8UBEDtdyHQxWnX-LeOs",
-  "webhook_url": "https://discordapp.com/api/webhooks/1017775485234708520/kAR2oBXIC3ZkUVDYhctUuYdvZgrMAbQFVvmdRe-W5vzcq5uTHabTkKc6BZGvc3JbPw9y",
-  "guild_id": 1017756429240762369,
-  "channel_id": 1017775398068690954,
+  "token": "",
+  "webhook_url": "",
+  "guild_id": ,
+  "channel_id": ,
   "announce_server_start_stop": true,
   "server_start": ":white_check_mark: **Server started!**",
   "server_stop": ":negative_squared_cross_mark: **Server stopped!**",
